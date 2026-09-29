@@ -3,7 +3,8 @@
 \header {
   title = "Abendlicht"
   subtitle = "Für Klavier"
-  composer = "Originalkomposition"
+  composer = "Me
+"
 }
 
 right = {

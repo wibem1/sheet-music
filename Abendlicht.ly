@@ -2,7 +2,7 @@
 
 \header {
   title = "Abendlicht"
-  subtitle = "Für Klavier"
+  subtitle = ""
   composer = "Me
 "
 }
